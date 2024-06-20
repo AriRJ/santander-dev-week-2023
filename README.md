@@ -60,3 +60,6 @@ Este projeto foi construído com um viés totalmente educacional para a DIO. Por
 ### [digitalinnovationone/santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
 
 Lá incluímos todas os endpoints de CRUD, além de aplicar boas práticas (uso de DTOs e refinamento na documentação da OpenAPI). Sendo assim, caso queira um desafio/referência mais completa é só acessar 👊🤩
+
+# MELHORIAS NO CODIGO:
+Essas melhorias incluem a utilização de DTOs para melhor encapsulamento dos dados, validações para garantir a integridade dos dados de entrada, tratamento de exceções mais detalhado e uma estrutura de código mais clara e eficiente. Essas mudanças não apenas melhoram a qualidade e a manutenção do código, mas também proporcionam uma melhor experiência para os usuários da API.
